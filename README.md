@@ -1,5 +1,5 @@
 # Crypto Price Explorer & Predictor
-An end-to-end ML pipeline built during my August 2025 internship.
+An end-to-end ML pipeline 
 
 ### Key Features
 * **Data Ingestion:** CoinGecko API integration with local caching.
@@ -9,3 +9,4 @@ An end-to-end ML pipeline built during my August 2025 internship.
 
 ### Tech Stack
 Python, Streamlit, Pandas, Scikit-Learn, Plotly.
+
